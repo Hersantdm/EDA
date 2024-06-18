@@ -1,2 +1,4 @@
 # EDA
-Exploratory Data Analysist
+Exploratory Data Analysist :
+1. Sumary Eda
+2. White whine Eda
